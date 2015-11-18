@@ -1,3 +1,5 @@
-*.sdf
-*.exe
-*.dll
+*.obj
+*.pdb
+*.ilk
+*.log
+*.idb

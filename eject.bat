@@ -1,1 +1,1 @@
-dllinject.exe --lib "%CD%\PacketLogger.dll" --procname "Client_tos.exe" --dbgpriv --eject
+dllinject.exe --lib "%CD%\ChatHook.dll" --procname "Client_tos.exe" --dbgpriv --eject
